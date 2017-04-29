@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="SBT 1" modules="scala-starter">
+      <plugins>
+        <plugin path="C:\Users\mikemangialardi94\.ivy2\cache\org.scala-js\scalajs-compiler_2.12.2\jars\scalajs-compiler_2.12.2-0.6.15.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>

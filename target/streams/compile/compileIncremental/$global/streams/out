@@ -1,0 +1,33 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(C:\Users\mikemangialardi94\Desktop\Scala\React\Scala Starter\src\main\scala\scalajs\vuejs\Demo.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\mikemangialardi94\Desktop\Scala\React\Scala Starter\src\main\scala\scalajs\vuejs\Demo.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\mikemangialardi94\Desktop\Scala\React\Scala Starter\src\main\scala\scalajs\vuejs\Demo.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\mikemangialardi94\Desktop\Scala\React\Scala Starter\src\main\scala\scalajs\vuejs\Demo.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to C:\Users\mikemangialardi94\Desktop\Scala\React\Scala Starter\target\scala-2.12\classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.2[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 1480898, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-Xplugin:C:\Users\mikemangialardi94\.ivy2\cache\org.scala-js\scalajs-compiler_2.12.2\jars\scalajs-compiler_2.12.2-0.6.15.jar[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files (x86)\Java\jre1.8.0_131\lib\resources.jar;C:\Program Files (x86)\Java\jre1.8.0_131\lib\rt.jar;C:\Program Files (x86)\Java\jre1.8.0_131\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jre1.8.0_131\lib\jsse.jar;C:\Program Files (x86)\Java\jre1.8.0_131\lib\jce.jar;C:\Program Files (x86)\Java\jre1.8.0_131\lib\charsets.jar;C:\Program Files (x86)\Java\jre1.8.0_131\lib\jfr.jar;C:\Program Files (x86)\Java\jre1.8.0_131\classes;C:\Users\mikemangialardi94\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\mikemangialardi94\Desktop\Scala\React\Scala Starter\target\scala-2.12\classes;C:\Users\mikemangialardi94\.ivy2\cache\org.scala-js\scalajs-library_2.12\jars\scalajs-library_2.12-0.6.15.jar;C:\Users\mikemangialardi94\.ivy2\cache\org.scala-js\scalajs-dom_sjs0.6_2.12\jars\scalajs-dom_sjs0.6_2.12-0.9.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 0.659490896 s[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

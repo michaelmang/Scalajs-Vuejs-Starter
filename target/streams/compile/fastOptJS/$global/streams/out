@@ -1,0 +1,16 @@
+[0m[[0minfo[0m] [0mFast optimizing C:\Users\mikemangialardi94\Desktop\Scala\React\Scala Starter\target\scala-2.12\scala-starter-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 78928 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 12819 us[0m
+[0m[[0mdebug[0m] [0mBasic Linking: 95603 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: false[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 4651 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 1 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 1165 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 6775 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 55618 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 1469 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 57166 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 75 -- invalidated: 1[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 100 -- invalidated: 1[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 4920 us[0m
+[0m[[0mdebug[0m] [0mGlobal IR cache stats: reused: 7 -- invalidated: 2 -- trees read: 1[0m

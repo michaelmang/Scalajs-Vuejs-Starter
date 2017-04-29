@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900');
+h1 {
+    font-family: "Lato";
+    font-weight: 700;
+}
+h3 {
+    font-family: "Lato";
+    font-weight: 400;
+}
+p {
+    font-family: "Lato";
+    font-weight: 300;
+}
+
+a{
+    text-decoration: none;
+}
