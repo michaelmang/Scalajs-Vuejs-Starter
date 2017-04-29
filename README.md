@@ -30,5 +30,5 @@ A starter kit for using Scala.js with a Vue facade. Demo included.
 `git clone git@github.com:michaelmang/Scalajs-Vuejs-Starter.git` <br/>
 `cd Scalajs-Vuejs-Starter` <br/>
 `sbt fastOptJS` <br/>
- [Open project with IntelliJ Idea] (https://www.jetbrains.com/help/idea/2017.1/opening-reopening-and-closing-projects.html#d834299e48) <br/>
- Run index.html in IntelliJ Idea <br/>
+[Open project with IntelliJ Idea](https://www.jetbrains.com/help/idea/2017.1/opening-reopening-and-closing-projects.html#d834299e48) <br/>
+Run index.html in IntelliJ Idea <br/>
