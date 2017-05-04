@@ -4,7 +4,7 @@ A starter kit for using Scala.js with a Vue facade. Demo included.
 
 [Full documentation available on Medium](http://bit.ly/2oInG1g) -- highly recommended
 
-![logo](https://cdn-images-1.medium.com/max/1000/1*iQXW2fK8X-ViU4lLHOs2dA.png)
+![logo](https://cdn-images-1.medium.com/max/1000/1*hpe6b_z4gbg4XbjJwah_zQ.png)
 
 
 ### **Prerequisites:**
